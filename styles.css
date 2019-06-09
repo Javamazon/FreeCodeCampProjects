@@ -1,0 +1,89 @@
+
+body {
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#87e0fd+0,53cbf1+40,05abe0+100;Blue+3D+%23+16 */
+background: #87e0fd; /* Old browsers */
+background: -moz-linear-gradient(top,  #87e0fd 0%, #53cbf1 40%, #05abe0 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#05abe0',GradientType=0 ); /* IE6-9 */
+
+
+
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    font-family: 'Homemade Apple', cursive;
+}
+
+#main {
+    margin: auto;
+    width: 100%;
+
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    word-spacing: 3px;
+}
+
+
+
+
+#img-div {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+ 
+
+}
+
+
+#img-div p {
+    text-align: center;
+}
+
+#image {
+    margin:auto;
+    border-radius: 5px;
+}
+
+#img-caption  {
+    font-size: 20px;
+    font-style: bold;
+}
+
+img {
+    max-width: 100%;
+
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+        width: 200px;
+        
+    }
+}
+
+.clear {
+    height: 50px;
+}
+
+#tribute-box{
+    height: auto;
+    width: 50%;
+    background-color: white;
+    margin: auto;
+}
+.tribute-info {
+    width: 70%;
+    
+    margin: auto;
+    line-height: 1.75;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
